@@ -1,5 +1,9 @@
 Ethereum smart contract address: 0x8830A591c36dB92C252aF317aF7cd7CD251670f3
-The blockchain browser address: 
+
+The blockchain browser address for check this smart contract:
+https://etherscan.io/token/0x8830a591c36db92c252af317af7cd7cd251670f3
+
+The blockchain browser address for check all transcations: 
 https://etherscan.io/token/generic-tokentxns2?contractAddress=0x8830A591c36dB92C252aF317aF7cd7CD251670f3&mode=&p=1
 
 pragma solidity ^0.4.16;
