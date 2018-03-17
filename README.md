@@ -1,5 +1,6 @@
 Nobelcoin Core integration/staging tree
 www.nobelcoin.com
+
 What is Nobelcoin?
 Nobelcoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Nobelcoin uses peer-to-peer technology to operate with decentralize authority: managing transactions and issuing money are carried out collectively by the network. Nobelcoin Core is the name of open source software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of the Nobelcoin Core software, see http://www.nobelcoin.com/ or read the Original White Papar.
