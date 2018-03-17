@@ -1,3 +1,7 @@
+Ethereum smart contract address: 0x8830A591c36dB92C252aF317aF7cd7CD251670f3
+The blockchain browser address: 
+https://etherscan.io/token/generic-tokentxns2?contractAddress=0x8830A591c36dB92C252aF317aF7cd7CD251670f3&mode=&p=1
+
 pragma solidity ^0.4.16;
 
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) public; }
